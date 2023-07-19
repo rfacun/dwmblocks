@@ -5,6 +5,7 @@ static const Block blocks[] = {
     //{"",    "kb_numlock",   0,              2},
     {"",    "kb_modif",     0,              3},
     {"",    "kb_map",       0,              2},
+    {"",    "light",        0,              4},
     {"",    "vol",          0,              1},
     {"",    "disk",         5,              0},
     {"",    "mem",          5,              0},
